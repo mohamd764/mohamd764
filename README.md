@@ -4,7 +4,7 @@
 
 I build ETL/ELT pipelines, web scrapers and data collectors, API integrations, and analysis in Python and SQL. I am available for remote contract, freelance, and C2C work, and I can start immediately.
 
-Flagship open-source tool, in progress: [wayback-image-recovery](https://github.com/mohamd764/wayback-image-recovery).
+Flagship open-source tool at v0.1.0: [wayback-image-recovery](https://github.com/mohamd764/wayback-image-recovery).
 
 ## What I build
 
@@ -38,11 +38,10 @@ Flagship open-source tool, in progress: [wayback-image-recovery](https://github.
 
 | Project | Summary |
 | --- | --- |
-| [wayback-image-recovery](https://github.com/mohamd764/wayback-image-recovery) | Flagship open-source CLI (in progress). Recovers lost website images from the Internet Archive Wayback Machine (CDX API) and Common Crawl, with async downloads, retry/backoff, Pillow validation, and dedup. |
-| [Shadow-DOM booking availability scraper](https://github.com/mohamd764/web-scraping-of-js-heavy-websites-) | Booking availability scraper for a Shadow DOM site. Playwright, CSV output. |
-| [Search interest vs social engagement](https://github.com/mohamd764/Google-Trends-API) | Time-series analysis of search interest versus social engagement. Pandas and statsmodels. |
+| [wayback-image-recovery](https://github.com/mohamd764/wayback-image-recovery) | Flagship open-source CLI at v0.1.0. Recovers lost website images from the Internet Archive Wayback Machine (CDX API) and Common Crawl, with async downloads, retry/backoff, Pillow validation, and dedup. |
+| [Shadow-DOM booking availability scraper](https://github.com/mohamd764/shadow-dom-booking-scraper) | Booking availability scraper for a Shadow DOM site. Playwright, CSV output. |
+| [Search interest vs social engagement](https://github.com/mohamd764/search-vs-social-signal-analysis) | Time-series analysis of search interest versus social engagement. Pandas and statsmodels. |
 | [smart-dashboard](https://github.com/mohamd764/smart-dashboard) | Django dashboard. |
-| [Marketing Data Analyst portfolio](https://github.com/mohamd764/Marketing-Data-Analyst---Portfolio-1) | Marketing data analyst portfolio with SQL exploratory analysis. |
 | HealthSync-Engine | Private client-style ETL that syncs fitness and health platform data into reports for coaches. Private repo, walkthrough available on request. |
 
 A star on [wayback-image-recovery](https://github.com/mohamd764/wayback-image-recovery) helps others find the tool.
